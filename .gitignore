@@ -1,0 +1,17 @@
+## IntelliJ
+.idea
+.settings
+*.iml
+/out/
+
+## Eclipse
+.classpath
+.project
+
+## Maven
+.mvn
+/target/
+
+## Local
+trainingSetDir
+logs

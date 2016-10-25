@@ -1,0 +1,13 @@
+com\liemily\web\service\UploadService.class
+com\liemily\web\controller\UploadController.class
+com\liemily\web\validator\UploadValidator.class
+com\liemily\web\service\ConstellationRecognitionService$IdentifyTask.class
+com\liemily\web\domain\Upload.class
+com\liemily\web\controller\ViewController.class
+com\liemily\web\WebApplication.class
+com\liemily\web\domain\Constellation.class
+com\liemily\web\service\ConstellationRecognitionService.class
+com\liemily\web\config\ApplicationConfig.class
+com\liemily\web\service\FileUtilities.class
+com\liemily\web\domain\TrainingSetGenerator.class
+com\liemily\web\controller\ConstellationRecognitionController.class
